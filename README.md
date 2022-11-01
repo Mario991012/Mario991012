@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mario Velasquez</h1>
-<h3 align="center">A passionate frontend developer from Guatemala with experience using Angular and Ionic to build websites, apps and SPA, using databases such as MongoDB and MySQL, and BaaS with Firebase. I am passionate about constantly improving the software development process and have experience with agile methodologies such as SCRUM and Kanban.</h3>
+<p>A passionate frontend developer from Guatemala with experience using Angular and Ionic to build websites, apps and SPA, using databases such as MongoDB and MySQL, and BaaS with Firebase. I am passionate about constantly improving the software development process and have experience with agile methodologies such as SCRUM and Kanban.</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mario991012" alt="mario991012" /></a> </p>
 
