@@ -1,13 +1,15 @@
 <h1>Hi 👋, I'm Mario Velasquez</h1>
-<p>A passionate frontend developer from Guatemala with experience using Angular and Ionic to build websites, apps and SPA, using databases such as MongoDB and MySQL, and BaaS with Firebase. I am passionate about constantly improving the software development process and have experience with agile methodologies such as SCRUM and Kanban.</p>
+<p>A passionate software developer with experience using Angular and Ionic to build websites, apps and SPA, developing API's and web services with Node.js, PHP, Typescript and cloud services with AWS abd using databases such as MongoDB and MySQL, and BaaS with Firebase. I am passionate about constantly improving the software development process and have experience with agile methodologies such as SCRUM and Kanban. Interested in Blockchain technologies, I am currently working with Solidity for Smart Contracts and with a solid foundation in blockchain technology I am continually expanding my expertise and pushing the boundaries of my skills through hands-on projects and testing. My journey in this field is ongoing, and I'm eager to discover new possibilities and advancements in the world of smart contracts and decentralized applications.</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mario991012" alt="mario991012" /></a> </p>
 
-- 🔭 I’m currently working on **Angular, Ionic**
+- 🔭 I’m currently working on **TypeScript, AWS, Node.js**
 
-- 🌱 I’m currently learning **AWS, React**
+- 🌟 I'm currently certified on **AWS and SCRUM Fundamentals**
 
-- 💬 Ask me about **Angular, Ionic, C#**
+- 🌱 I’m currently learning **React, Solidity**
+
+- 💬 Ask me about **TypeScript, Blockchain, Angular, Ionic, C#**
 
 - 📫 How to reach me **mvelasquezb99@gmail.com**
 
@@ -18,7 +20,7 @@
 
 <h2>Education 📚</h2>
 
-- 🌱 I’m currently a Information and Systems Engineering student at **Universidad Rafael Landivar**
+- 🌱 I’m currently an Information and Systems Engineer from **Rafael Landivar University**
 
 <h2>Languages and tools:</h2>
 
@@ -36,7 +38,17 @@
   <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   </p>
-    
+
+<h3>Cloud Services</h3>
+<p align="left">
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331300/aws.svg" alt="AWS" width="40" height="40"/> </a>
+  </p>
+  
+<h3>Blockchain</h3>
+<p align="left">
+  <a href="https://soliditylang.org" target="_blank" rel="noreferrer"> <img src="https://platon-solidity.readthedocs.io/en/latest/_images/logo.svg" alt="Solidity" width="40" height="40"/> </a>
+  </p>
+  
 <h3>Databases</h3>
   <p align="left">
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
@@ -53,6 +65,8 @@
 <h3>Code versioning tools</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" alt="github" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com/es/codecommit/" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_12/1_aws-codecommit.d0068240c1.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
 <h3>Other Software</h3>
